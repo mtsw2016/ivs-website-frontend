@@ -1,0 +1,39 @@
+# Virtual Environments
+venv_ivs/
+venv/
+env/
+ENV/
+.venv
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.Python
+*.so
+*.egg
+*.egg-info
+dist/
+build/
+*.log
+
+# Environment Variables
+.env
+.env.local
+.env.*.local
+
+# Vercel
+.vercel
+.vercel_build_output
+
+# IDEs
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# OS
+.DS_Store
+Thumbs.db

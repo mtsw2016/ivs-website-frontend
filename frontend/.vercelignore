@@ -1,0 +1,23 @@
+# Node modules (will be installed during build)
+node_modules/
+
+# Development files
+*.md
+.git/
+.gitignore
+.env.example
+src/**/*.test.js
+src/**/*.test.jsx
+src/**/*.spec.js
+src/**/*.spec.jsx
+
+# IDE
+.vscode/
+.idea/
+
+# Source maps in production
+*.map
+
+# Testing
+coverage/
+.eslintcache

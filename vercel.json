@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "name": "ivs-website",
+  "projects": [
+    {
+      "name": "frontend",
+      "directory": "frontend"
+    },
+    {
+      "name": "backend",
+      "directory": "backend"
+    }
+  ]
+}
